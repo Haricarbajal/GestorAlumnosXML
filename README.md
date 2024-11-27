@@ -10,10 +10,10 @@ Este programa en Java lee un archivo de texto con información de alumnos y gene
   
 ## Estructura del Archivo de Entrada
 
-El archivo de texto debe contener los datos de los alumnos en formato CSV, con las siguientes columnas por línea:
+El archivo de texto debe contener los datos de los alumnos en formato TXT, con las siguientes columnas por línea:
 ### Ejemplo de Entrada
 
-```csv
+```
 12345,Juan Pérez,6.5
 67890,Ana López,4.0
 11223,María Díaz,7.8
